@@ -10,7 +10,7 @@ Hi, I'm Iffo Elsande!
 
 ```
 💻 I am a self taught a Machine Learning Developer
-📚 I am undergraduate at Surabaya State University
+📚 I am graduate at Surabaya State University
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🔭 Working on Deep Learning & Machine Learning
 🌱 Learning about Computer Vision and Machine Learning stuff
