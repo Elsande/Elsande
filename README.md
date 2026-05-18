@@ -9,14 +9,11 @@ Hi, I'm Iffo Elsande!
 <hr>
 
 ```
-💻 I am a self taught a Machine Learning Developer
 📚 I am graduate at Surabaya State University
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript, Java, C++, C, C#
-🚩 Interested in Full Stack Machine Learning Application development
-💖 In a complicated relationship with Neural Networks
+📝 I have a strong interest in Web Development and Artificial Intelligence
+🌱 Learning about Computer Vision, Machine Learning stuff, and Web Develop
+🌟 Main languages: Python, JavaScript, Java, C++, C, PHP 
+🚩 Interested in Full Stack Machine Learning Application development and Full Stack Developer
 🎵 Love rock - metal
 ```
 <hr>
