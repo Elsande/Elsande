@@ -6,7 +6,7 @@
 <hr>
 
 ```
-🎓 Fresh graduate Informatics Engineering, Universitas Negeri Surabaya
+🎓 Informatics Engineering Graduate, Universitas Negeri Surabaya
 🤖 ML Engineer Freelance @ Cons Code | IBM Advanced AI Academy Alumni
 🔬 Thesis: DoS Attack Classification on Blockchain Networks using Reinforcement Learning (PPO)
 🌱 Exploring: LLM fine-tuning, MLOps, and Full Stack ML Applications
